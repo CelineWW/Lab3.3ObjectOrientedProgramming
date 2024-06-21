@@ -1,2 +1,2 @@
-![Vehicle OOP UML Diagram]()
-![JUnit Test]()
+![Vehicle OOP UML Diagram](https://github.com/CelineWW/Object_Oriented_Programming_in_Java/blob/main/OOP%20UML%20Diagram.png)
+![JUnit Test](https://github.com/CelineWW/Object_Oriented_Programming_in_Java/blob/main/JUnit%20Test.png)
